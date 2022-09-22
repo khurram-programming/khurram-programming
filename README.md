@@ -1,3 +1,5 @@
+<img src="image/cover_photo.jpg" width="1200">
+
 ### Hi there 👋
 ### I am a freelancer programmer.
 ### 🌱 I’m currently learning Web and Android development.
